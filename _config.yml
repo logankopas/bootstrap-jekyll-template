@@ -1,0 +1,9 @@
+# Site settings
+title: Bootstrap + Jekyll
+email: your-email@domain.com
+description: "Basic template for using jekyll and bootstrap"
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
